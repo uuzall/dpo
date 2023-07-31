@@ -1,6 +1,6 @@
 # Implementation of Direct Preference Optimization 
 
-(Paper Link)[https://arxiv.org/pdf/2305.18290.pdf]
+[Paper Link](https://arxiv.org/pdf/2305.18290.pdf)
 
 Direct Preference Optimization (DPO) is a way in which you can circumvent the reward modelling step in Reinforcement Learning from Human Feedback (RLHF) and directly train the underlying policy. If you do not know how to perform RLHF, then the paper has a good summary for it. I will rewrite it here for you too :) 
 
